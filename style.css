@@ -82,6 +82,10 @@
     content: "\f05a";
 }
 
+.fa-crosshairs:before {
+    content: "\f05b";
+}
+
 /******************* General Styling *********************/
 
 .wrapper {
