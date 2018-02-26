@@ -46,6 +46,42 @@
     content: "\f059";
 }
 
+.fa-download:before {
+    content: "\f019";
+}
+
+.fa-plus:before {
+    content: "\f067";
+}
+
+.fa-search:before   {
+    content: "\f002";
+}
+
+.fa-th-large:before {
+    content: "\f009";
+}
+
+.fa-list:before {
+    content: "\f03a";
+}
+
+.fa-caret-square-o-right:before {
+    content: "\f152";
+}
+
+.fa-caret-square-o-down:before {
+    content: "\f150";
+}
+
+.fa-ellipsis-h:before {
+    content: "\f141";
+}
+
+.fa-info-circle:before {
+    content: "\f05a";
+}
+
 /******************* General Styling *********************/
 
 .wrapper {
