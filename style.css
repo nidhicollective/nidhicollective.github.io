@@ -98,6 +98,22 @@
     content: "\f017";
 }
 
+.fa-times-circle:before {
+    content: "\f057";
+}
+
+.fa-check:before {
+    content: "\f00c";
+}
+
+.fa-chevron-circle-left:before {
+    content: "\f137";
+}
+
+.fa-chevron-circle-right:before {
+    content: "\f138";
+}
+
 /******************* General Styling *********************/
 
 .wrapper {
