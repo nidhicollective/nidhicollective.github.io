@@ -114,6 +114,46 @@
     content: "\f138";
 }
 
+.fa-pause:before {
+    content: "\f04c";
+}
+
+.fa-play-circle:before {
+    content: "\f144";
+}
+
+.fa-clone:before {
+    content: "\f24d";
+}
+
+.fa-film:before {
+    content: "\f008";
+}
+
+.fa-tv:before {
+    content: "\f26c";
+}
+
+.fa-desktop:before {
+    content: "\f108";
+}
+
+.fa-tablet:before {
+    content: "\f10a";
+}
+
+.fa-mobile:before {
+    content: "\f10b";
+}
+
+.fa-image:before {
+    content: "\f03e";
+}
+
+.fa-share-alt:before {
+    content: "\f1e0";
+}
+
 /******************* General Styling *********************/
 
 .wrapper {
