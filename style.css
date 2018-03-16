@@ -170,6 +170,14 @@
     content: "\f057";
 }
 
+.fa-circle-o:before {
+    content: "\f10c";
+}
+
+.fa-times:before {
+    content: "\f00d";
+}
+
 /******************* General Styling *********************/
 
 .wrapper {
