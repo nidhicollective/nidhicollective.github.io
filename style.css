@@ -178,6 +178,18 @@
     content: "\f00d";
 }
 
+.fa-exclamation-circle:before {
+    content: "\f06a";
+}
+
+.fa-chevron-right:before {
+    content: "\f054";
+}
+
+.fa-tag:before {
+    content: "\f02b";
+}
+
 /******************* General Styling *********************/
 
 .wrapper {
